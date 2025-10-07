@@ -102,7 +102,7 @@ Contribuições são bem-vindas via *issues* ou *pull requests*. 🚀
 
 <div align="center">
 
-### ✍️ Dev Quote  
+### ✍️ 
 > “Simplicity is the soul of efficiency.”  
 > - *Austin Freeman*
 
