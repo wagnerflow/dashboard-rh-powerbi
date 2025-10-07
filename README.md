@@ -62,7 +62,12 @@ Durante o desenvolvimento, foram aplicadas as principais práticas de Business I
 
 ## 🖼️ Visual do Dashboard  
 
-![Dashboard de RH](assets/dashboard_preview.png)
+<p align="center">
+  <img src="assets/dashrh_screenshot.png" alt="Dashboard de RH em Power BI" width="850px" style="border-radius:10px;"/>
+</p>
+
+> *Interface interativa e corporativa - projetada para comunicação clara dos indicadores de RH.*
+
 
 > *Interface única, intuitiva e responsiva — projetada para comunicação clara dos indicadores-chave.*
 
