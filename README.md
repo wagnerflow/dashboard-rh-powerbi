@@ -63,7 +63,7 @@ Durante o desenvolvimento, foram aplicadas as principais práticas de Business I
 
 ![Dashboard de RH](assets/dashboard_preview.png)
 
-> *Interface única, intuitiva e responsiva — projetada para comunicação clara dos indicadores-chave.*
+> *Interface intuitiva e responsiva - projetada para comunicação clara dos indicadores-chave.*
 
 ---
 
